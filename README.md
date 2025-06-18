@@ -9,8 +9,8 @@ The Arewa Data Science and Machine Learning Fellowship is a comprehensive, free 
 | Week  | Topic |  Status |
 |----------|-------|------------|
 | One   | Basic concepts behind data science | No Assignment
-| Two   | [Numpy](../Arewa-DS-ML3.0-Exercises/numpy)                         | Completed
-| Three | [Pandas](../Arewa-DS-ML3.0-Exercises/pandas/)                            | In Progress
+| Two   | [Numpy](../Arewa-DS-ML3.0-Exercises/numpy-exercises)                         | Completed
+| Three | [Pandas](../Arewa-DS-ML3.0-Exercises/pandas-exercises/)                            | In Progress
 | Four  | Data Preparation Techniques       | No Assignment
 | Five  | Working with Matplotlib           | Pending
 | Six   | Quantities Visualizing            | Pending
