@@ -4,7 +4,7 @@
 
 The Arewa Data Science and Machine Learning Fellowship is a comprehensive, free program aimed at equipping aspiring data scientists and machine learning engineers with the skills and knowledge needed to excel in the field.
 
-    Below is the assignment for weekly training sessions, kindly click on each topic to preview submission.
+Below is the assignment submission status for weekly training sessions, kindly click on each topic to preview submission.
 
 | Week  | Topic |  Status |
 |----------|-------|------------|
