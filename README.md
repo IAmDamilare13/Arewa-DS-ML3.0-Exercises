@@ -12,9 +12,9 @@ Below is the assignment submission status for weekly training sessions, kindly c
 | Two   | [Numpy](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/numpy-exercises)                         | Completed
 | Three | [Pandas](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/pandas-exercises)                            | In Progress
 | Four  | Data Preparation Techniques       | No Assignment
-| Five  | Working with Matplotlib           | Pending
-| Six   | Quantities Visualizing            | Pending
-| Seven | Data Distributions Visualization  | Pending
-| Eight | Proportions Visualization         | Pending
-| Nine  | Relationships Visualization       | Pending
-| Ten   | Meaningful Visualizations         | Pending
+| Five  | [Working with Matplotlib](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/data-visualization)           | Completed
+| Six   | [Quantities Visualizing](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/data-visualization)            | Completed
+| Seven | [Data Distributions Visualization](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/data-visualization)  | In Progress
+| Eight | [Proportions Visualization](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/data-visualization)         | In Progress
+| Nine  | [Relationships Visualization](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/data-visualization)       | In Progress
+| Ten   | [Meaningful Visualizations](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/data-visualization)         | In Progress
