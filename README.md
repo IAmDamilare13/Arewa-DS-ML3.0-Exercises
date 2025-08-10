@@ -12,9 +12,9 @@ Below is the assignment submission status for weekly training sessions, kindly c
 | Two   | [Numpy](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/numpy-exercises)                         | Completed
 | Three | [Pandas](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/pandas-exercises)                            | In Progress
 | Four  | Data Preparation Techniques       | No Assignment
-| Five  | [Working with Matplotlib](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/data-visualization)           | Completed
-| Six   | [Quantities Visualizing](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/data-visualization)            | Completed
-| Seven | [Data Distributions Visualization](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/data-visualization)  | In Progress
-| Eight | [Proportions Visualization](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/data-visualization)         | In Progress
-| Nine  | [Relationships Visualization](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/data-visualization)       | In Progress
-| Ten   | [Meaningful Visualizations](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/data-visualization)         | In Progress
+| Five  | [Working with Matplotlib, Quantities Visualizing, Data Distributions Visualization, Proportions Visualization, Relationships Visualization, Meaningful Visualizations](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/data-visualization)           | In Progress
+| Six   | [Introduction to Machine Learning](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/into-to-ml)            | In Progress
+| Seven | [Regression](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/)  | Pending
+| Eight | [Classification](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/)         | Pending
+| Nine  | [Clustering](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/)       | Pending
+| Ten   | [](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/tree/main/)         | 
