@@ -2,7 +2,7 @@
 
 This is a brief history on the evolution of large language models (LLMs)
 
-[Image](!Arewa-DS-ML3.0-Exercises/intro-to-ml/llms_evolution.jpg)
+![Image](https://github.com/IAmDamilare13/Arewa-DS-ML3.0-Exercises/blob/main/into-to-ml/llms_evolution.jpg)
 
 | Year | Evolution | Comment |
 |-------|---------|----------|
@@ -16,5 +16,6 @@ This is a brief history on the evolution of large language models (LLMs)
 | 2020 | GPT-3 | It stunned the world with 175 bilion parameters, showing remarkable abilities in conversation, writing and coding
 | 2022 onwards | | LLMs became mainstream, powering products like ChatGPT, Bard and Copilot 
     LLMS are still evolving rapidly and current research focuses on reducing biases and hallucinations, integrating reasoning and real-time knowledge retrieval, and moving towards multimodal AI that understands text, image, audio and video. Some are LaMa Falcon, GPT-4 LIMA, PaLM 2, Gemini, Dolly 2, Guanaco.
+
 
 Source: [Brief History of Large Language Models & Generative AI](https://youtu.be/K7o5_Fj7_SY?si=tNHtcYDsuSjgr_Mb)
